@@ -1,0 +1,12 @@
+name: KAgent
+description: An AI agent framework for building autonomous agents with knowledge integration
+  and task execution capabilities
+url: https://github.com/deepwisdom/kagent
+tags:
+- AI Agents
+- Framework
+- Autonomous Systems
+created: '2025'
+modified: '2025'
+apis: []
+common: []
