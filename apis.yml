@@ -8,8 +8,8 @@ type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - AI Agents
-  - Framework
   - Autonomous Systems
+  - Framework
 url: https://raw.githubusercontent.com/api-evangelist/kagent/refs/heads/main/apis.yml
 created: '2025-01-01'
 modified: '2026-03-16'
