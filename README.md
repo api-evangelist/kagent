@@ -1,5 +1,5 @@
-# KAgent (kagent)
-KAgent is an AI agent framework for building autonomous agents with knowledge integration and task execution capabilities. It provides tools for creating AI agents that can reason, plan, and execute complex tasks.
+# kagent (kagent)
+kagent is an open-source framework for running AI agents in Kubernetes, automating complex DevOps operations and troubleshooting tasks with intelligent workflows. It is a Cloud Native Computing Foundation sandbox project that brings agentic AI to cloud-native environments.
 
 **URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/kagent/refs/heads/main/apis.yml)
 
@@ -11,33 +11,36 @@ KAgent is an AI agent framework for building autonomous agents with knowledge in
 
 ## Tags:
 
- - AI Agents, Framework, Autonomous Systems
+ - AI Agents, Cloud Native, DevOps, Framework, Kubernetes
 
 ## Timestamps
 
 - **Created:** 2025-01-01 
-- **Modified:** 2026-03-16 
+- **Modified:** 2026-04-28 
 
 ## APIs
 
-### KAgent
-KAgent AI agent framework for building autonomous agents with knowledge integration and task execution capabilities.
+### kagent
+kagent open-source framework for running AI agents in Kubernetes, automating DevOps operations and troubleshooting through intelligent agent workflows.
 
-**Human URL:** [https://github.com/deepwisdom/kagent](https://github.com/deepwisdom/kagent)
+**Human URL:** [https://kagent.dev](https://kagent.dev)
 
 
 #### Tags:
 
- - AI Agents, Framework
+ - AI Agents, Kubernetes, DevOps
 
 #### Properties
 
-- [Documentation](https://github.com/deepwisdom/kagent)
+- [Documentation](https://kagent.dev/docs)
+- [GitHub Repository](https://github.com/kagent-dev/kagent)
 
 ## Common Properties
 
-- [Website](https://github.com/deepwisdom/kagent)
-- [GitHub Organization](https://github.com/deepwisdom)
+- [Website](https://kagent.dev)
+- [Documentation](https://kagent.dev/docs)
+- [GitHub Organization](https://github.com/kagent-dev)
+- [GitHub Repository](https://github.com/kagent-dev/kagent)
 
 ## Maintainers
 
