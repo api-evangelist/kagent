@@ -32,16 +32,16 @@ apis:
     properties:
       - type: Documentation
         url: https://kagent.dev/docs
-      - type: GitHub Repository
+      - type: GitHubRepository
         url: https://github.com/kagent-dev/kagent
 common:
   - type: Website
     url: https://kagent.dev
   - type: Documentation
     url: https://kagent.dev/docs
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/kagent-dev
-  - type: GitHub Repository
+  - type: GitHubRepository
     url: https://github.com/kagent-dev/kagent
 maintainers:
   - FN: Kin Lane
