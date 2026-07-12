@@ -35,6 +35,8 @@ apis:
       - type: GitHubRepository
         url: https://github.com/kagent-dev/kagent
 common:
+  - type: DomainSecurity
+    url: security/kagent-domain-security.yml
   - type: Website
     url: https://kagent.dev
   - type: Documentation
@@ -43,6 +45,8 @@ common:
     url: https://github.com/kagent-dev
   - type: GitHubRepository
     url: https://github.com/kagent-dev/kagent
+  - url: https://kagent.dev/blog
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
