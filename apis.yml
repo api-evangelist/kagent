@@ -65,6 +65,12 @@ apis:
       - type: GitHubRepository
         url: https://github.com/kagent-dev/kagent
 common:
+  - type: Plans
+    url: plans/kagent-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/kagent-rate-limits.yml
+  - type: FinOps
+    url: finops/kagent-finops.yml
   - type: IssueTracker
     url: https://github.com/kagent-dev/kagent/issues
   - type: Releases
