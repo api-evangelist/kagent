@@ -1,4 +1,4 @@
-# kagent (kagent)
+# kagent
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,49 +66,102 @@
 
 kagent is an open-source framework for running AI agents in Kubernetes, automating complex DevOps operations and troubleshooting tasks with intelligent workflows. It is a Cloud Native Computing Foundation sandbox project that brings agentic AI to cloud-native environments.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/kagent/refs/heads/main/apis.yml)
+**Areas:** AI Agents · Cloud-Native · DevOps · Framework · Kubernetes
 
-## Scope
+## kagent on APIs.io
 
-- **Type:** Index 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+Everything profiled for kagent is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/kagent/](https://apis.io/providers/kagent/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### APIs (1)
 
- - AI Agents, Cloud Native, DevOps, Framework, Kubernetes
+- [kagent](https://apis.io/apis/kagent/kagent/) — kagent open-source framework for running AI agents in Kubernetes, automating DevOps operations and troubleshooting through intelligent agent workflows.
 
-## Timestamps
+### Published properties
 
-- **Created:** 2025-01-01 
-- **Modified:** 2026-04-28 
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-### kagent
-kagent open-source framework for running AI agents in Kubernetes, automating DevOps operations and troubleshooting through intelligent agent workflows.
+Authentication, trust centre, and vulnerability disclosure.
 
-**Human URL:** [https://kagent.dev](https://kagent.dev)
+- [Kagent Domain Security](https://apis.io/security/kagent/kagent-domain-security/)
 
+#### Plans and pricing (1)
 
-#### Tags:
+Published plans, tiers and prices.
 
- - AI Agents, Kubernetes, DevOps
+- [Kagent Plans Pricing](https://apis.io/plans/kagent/kagent-plans-pricing/)
 
-#### Properties
+#### Rate limits (1)
 
-- [Documentation](https://kagent.dev/docs)
-- [GitHub Repository](https://github.com/kagent-dev/kagent)
+Published request limits.
 
-## Common Properties
+- [Kagent Rate Limits](https://apis.io/rate-limits/kagent/kagent-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Kagent Finops](https://apis.io/finops/kagent/kagent-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://kagent.dev)
 - [Documentation](https://kagent.dev/docs)
-- [GitHub Organization](https://github.com/kagent-dev)
-- [GitHub Repository](https://github.com/kagent-dev/kagent)
+- [Blog](https://kagent.dev/blog)
+- [GitHub](https://github.com/kagent-dev)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 21.6** — emerging · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 36.8 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 7.9 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/kagent/](https://apis.io/providers/kagent/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for kagent: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/kagent/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
